@@ -1,0 +1,31 @@
+Source YT video: https://youtu.be/6XrL5jXmTwM?si=OMtweQf-74oOBgGJ
+
+Attributes: 
+  a piece of data containing values that describe each instance of that class.
+
+Methods:
+  operations or functions
+
+Visibility:
+  sets the accessability for that attribute or method
+  - (-) private
+  - (+) public
+  - (#) protected
+  - (~) package/default
+
+Body:
+  Class
+    -attributes
+    -methods()
+
+Association:
+  when a class points to another class with just a line not an arrow
+
+Aggregation:
+  -when a class can join or separate itself from a group
+  -uses open diamond line
+
+Composition:
+  -when a child object wouldn't be able to exist without it's parent object
+  -uses closed diamond line
+

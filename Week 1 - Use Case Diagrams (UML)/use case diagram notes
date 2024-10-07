@@ -1,3 +1,5 @@
+Source video: https://youtu.be/4emxjxonNRI?si=afhD4fuF14uF0HOD
+
 Use Case Diagram contains four elements:
   -Systems
   -Actors
@@ -18,5 +20,3 @@ Relationships: connects the relationships between the Actor and Use Case or Use 
   -include: base case can't run without include case. ex: when the base case excutes, excute the include as well. base --<<include>>--> include
   -extend: similar to include but it doesn't happen everytime a base case excutes. only happen when a certain event occurs. base <--<<extend>>-- extend
   -generalization: children connected to the parent ex. parent(log in) child(success) child(fail)
-
-  Source video: https://youtu.be/4emxjxonNRI?si=afhD4fuF14uF0HOD
